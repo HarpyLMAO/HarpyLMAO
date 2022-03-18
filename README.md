@@ -5,9 +5,13 @@ Discord: "Harpy | HarpyLMAO#6969"
 Twitter: @ErHarpio
 Email: contact@harpylmao.me
 
-🔭 I’m currently working on TheHub Project
+🔭 I’m currently working on JunglyMC Project
 
 🌱 I’m currently learning Kotlin and improving in java.
+
+💫  I unwrap by google code style
+
+🤙 MongoDB, Jackson Mapper & Dependency Injection experience
 
 ⚡ Fun facts:
 
