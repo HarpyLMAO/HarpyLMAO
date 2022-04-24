@@ -5,7 +5,7 @@ Discord: "Harpy | HarpyLMAO#6969"
 Twitter: @ErHarpio
 Email: contact@harpylmao.me
 
-🔭 I’m currently working on JunglyMC Project
+🔭 I’m currently working on Kerfu Project
 
 🌱 I’m currently learning Kotlin and improving in java.
 
@@ -15,4 +15,4 @@ Email: contact@harpylmao.me
 
 ⚡ Fun facts:
 
-I started coding because I like make minecraft servers.
+I'm funny, no more jaja
